@@ -1,0 +1,17 @@
+name: noRain
+version: '${project.version}'
+main: me.mass.norain.noRainPlugin
+api-version: 1.18
+soft-depend: [ Multiverse-Core ]
+authors: [ Mass ]
+description: Nej.
+commands:
+  exec:
+    description: Your command description
+    usage: /exec
+  checkflags:
+    description: Your command description
+    usage: /checkflags
+  useflags:
+    description: Your command description
+    usage: /useflags
